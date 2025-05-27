@@ -8,5 +8,9 @@ cad at end of day 2
 
 ![image](https://github.com/user-attachments/assets/8e7646f1-fcd5-4da5-959e-c68dcf80a550) 
 
-Start of day 3 5/26/25 making a list of components and where to get them from and working on cad
-12:52 PM -
+Start of day 3 5/26/25 working on cad a bit more
+12:52 PM - 4:36 PM
+
+Cad at end of day 3 
+
+![image](https://github.com/user-attachments/assets/0ba0139a-3437-4226-acea-aa4e997f04ed)
