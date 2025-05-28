@@ -20,9 +20,11 @@ Updated 5/27/25
 - 8Pcs LM6UU Linear Bearings: [Amazon](https://a.co/d/eilXz34)
 - Zeberoxyz 2PCS Set GT2 Synchronous Wheel 20&36 Teeth 5mm Bore: [Amazon](https://a.co/d/fhxlShq)
 
+
 - trianglelab M8 inductive proximity sensor: [Triangle-Lab](https://trianglelab.net/products/m8)
 - V6 hotend: [Triange-Lab](https://trianglelab.net/products/v6-hotend-1?VariantsId=10946) (MAKE SURE TO CHOOSE 1.75 24V ALL-METAL VARIANT)
 - DDE V2 Orbiter 2.0 Extruder: [Triangle-Labs](https://trianglelab.net/products/dde-v2-orbiter-20-extruder?VariantsId=10328) (MAKE SURE TO CHOOSE 24V DDE V2 ORBITER 2.0 NO HOTEND VARIANT)
+
 
 - BIGTREETECH Manta E3EZ V1.0: [BigTreeTech](https://biqu.equipment/products/bigtreetech-manta-e3ez-v1-0-for-ender3-ender3pro-ender5?variant=40214245081186) (MAKE SURE TO CHOOSE Manta E3EZ V1.0+ 5pcs EZ2209 + TFT35SPI -V2.1 VARIANT)
 - BigTreeTech CB2: [BigTreeTech](https://biqu.equipment/products/bigtreetech-pi-2-cb2?variant=41018191839330) (MAKE SURE TO PICK BIGTREETECH CB2 VARIANT)
