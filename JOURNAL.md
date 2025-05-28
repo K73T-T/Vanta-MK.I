@@ -18,3 +18,6 @@ Start of day 3 5/26/25 working on cad a bit more
 Cad at end of day 3 
 
 ![image](https://github.com/user-attachments/assets/0ba0139a-3437-4226-acea-aa4e997f04ed)
+
+Start of Day 5 5/27/25 Making a parts list and mounting second SCARD motor
+9:34 PM -
