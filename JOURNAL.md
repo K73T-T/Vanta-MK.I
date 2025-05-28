@@ -20,4 +20,11 @@ Cad at end of day 3
 ![image](https://github.com/user-attachments/assets/0ba0139a-3437-4226-acea-aa4e997f04ed)
 
 Start of Day 5 5/27/25 Making a parts list and mounting second SCARD motor
-9:34 PM -
+9:34 PM - 11:42 PM 3 hours 8 minutes
+
+[Parts List](https://github.com/K73T-T/Vanta-MK.I/blob/main/Parts%20list.md)
+
+Mounted second motor 
+
+![image](https://github.com/user-attachments/assets/b7da0158-a4f8-48d1-ae84-e2e315986f14)
+
