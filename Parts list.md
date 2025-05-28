@@ -13,7 +13,7 @@ Updated 5/27/25
 - 580 PCS M3 Black Nylon Standoff Kit with Spacers, Screws, and Nuts: [Amazon](https://a.co/d/3ski8s5)
 - 10pcs Micro Limit Switch KW12-3 AC 250V 5A SPDT 1NO 1NC Micro Switch With Roller: [Amazon](https://a.co/d/j1za4Sr)
 - 24V 480W Switching Power Supply Adapter SMPS AC 110/220V to DC 24V: [Amazon](https://a.co/d/goHCgDo)
-- (2x) STEPPERONLINE Stepper Motor Nema 17 Bipolar 40mm 64oz.in(45Ncm) 2A: [Amazon](https://a.co/d/0sLCQks)
+- (2x) STEPPERONLINE Stepper Motor Nema 17 Bipolar 40mm 64oz.in(45Ncm) 2A: [Amazon](https://a.co/d/0sLCQks) [StepperOnline](https://www.omc-stepperonline.com/nema-17-bipolar-45ncm-64oz-in-2a-42x42x40mm-4-wires-w-1m-cable-connector-17hs16-2004s1)
 - 1590Pcs M3 Screw Kit: [Amazon](https://a.co/d/etbID81)
 - (2x) 2 PCS 10 x 450mm (0.394 x 17.71 inches) Vigorous Linear Motion Rods: [Amazon](https://a.co/d/boRPGc3)
 - (2x) 2Pcs 6mm x 400mm (0.236 x 15.74 inches) Vigorous Linear Motion Rods: [Amazon](https://a.co/d/f1f063z)
