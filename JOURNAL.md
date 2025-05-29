@@ -31,6 +31,6 @@ Mounted second motor
 Day 5 5/28/25 
 8:46 PM - 
 
-Addjusted clearence for first motor mount so the belt does not clip into it
+Adjusted clearence for first motor mount so the belt does not clip into it
 
 ![clip no yes](https://github.com/user-attachments/assets/99e0faef-5eaa-4cc0-afc2-3fd0d8358593)
