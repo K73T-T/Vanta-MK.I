@@ -1,4 +1,4 @@
-Updated 5/28/25 changed 400mm lead screw our for 350mm lead screw
+Updated 5/28/25 changed 400mm lead screw our for 350mm lead screw and added c14 socket from BigTreeTech
 
 - (2x) Stepperonline Nema 17 Bipolar 0.9deg 36Ncm(51oz.in) 0.9A 42x42x40mm 4 Wires: [Amazon](https://a.co/d/cxJGrp1) [Stepperonline](https://www.omc-stepperonline.com/nema-17-bipolar-0-9deg-36ncm-51oz-in-0-9a-5-4v-42x42x40mm-4-wires-17hm15-0904s)
 - iexcell 25 Pcs M5 x 60mm Thread Pitch 0.8 mm Stainless Steel 304 Hex Socket Flat Head Cap Screws Bolts Kit: [Amazon](https://a.co/d/i7QItlL)
@@ -29,3 +29,4 @@ Updated 5/28/25 changed 400mm lead screw our for 350mm lead screw
 - BIGTREETECH Manta E3EZ V1.0: [BigTreeTech](https://biqu.equipment/products/bigtreetech-manta-e3ez-v1-0-for-ender3-ender3pro-ender5?variant=40214245081186) (MAKE SURE TO CHOOSE Manta E3EZ V1.0+ 5pcs EZ2209 + TFT35SPI -V2.1 VARIANT)
 - BigTreeTech CB2: [BigTreeTech](https://biqu.equipment/products/bigtreetech-pi-2-cb2?variant=41018191839330) (MAKE SURE TO PICK BIGTREETECH CB2 VARIANT)
 - BigTreeTech CB2 HeatSink: [BigTreeTech](https://biqu.equipment/products/bigtreetech-pi-2-cb2?variant=41283042213986) (MAKE SURE TO PICK CB2 HEATSINK VARIANT)
+- BigTreeTech C14 socket with switch 5amp fuse: [BigTreeTech](https://biqu.equipment/products/biqu-15a-250v-rocker-switch-power-socket-inlet-module-plug-5a-fuse-switch-with-5pcs-16-14-awg-wiring-3-pin-iec320-c14?variant=40303493546082)
