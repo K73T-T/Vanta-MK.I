@@ -1,4 +1,5 @@
 will update to a bom.csv tomorrow 5/29/25
+
 Updated 5/28/25 changed 400mm lead screw out for 350mm lead screw and added c14 socket from BigTreeTech and a right angle c13 power cable
 
 - (2x) Stepperonline Nema 17 Bipolar 0.9deg 36Ncm(51oz.in) 0.9A 42x42x40mm 4 Wires: [Amazon](https://a.co/d/cxJGrp1) [Stepperonline](https://www.omc-stepperonline.com/nema-17-bipolar-0-9deg-36ncm-51oz-in-0-9a-5-4v-42x42x40mm-4-wires-17hm15-0904s)
