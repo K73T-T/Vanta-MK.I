@@ -34,3 +34,5 @@ Day 5 5/28/25
 Adjusted clearence for first motor mount so the belt does not clip into it
 
 ![clip no yes](https://github.com/user-attachments/assets/99e0faef-5eaa-4cc0-afc2-3fd0d8358593)
+
+[Found wiring diagram for BIQU Manta e3ez](https://os.ratrig.com/docs/boards/btt/manta-e3ez/)
