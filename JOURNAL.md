@@ -29,7 +29,7 @@ Mounted second motor
 ![image](https://github.com/user-attachments/assets/b7da0158-a4f8-48d1-ae84-e2e315986f14)
 
 Day 5 5/28/25 
-8:46 PM - 11:34 PM
+8:46 PM - 11:12 PM
 
 Adjusted clearence for first motor mount so the belt does not clip into it
 
