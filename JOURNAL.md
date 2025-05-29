@@ -29,7 +29,7 @@ Mounted second motor
 ![image](https://github.com/user-attachments/assets/b7da0158-a4f8-48d1-ae84-e2e315986f14)
 
 Day 5 5/28/25 
-8:46 PM - 
+8:46 PM - 11:34 PM
 
 Adjusted clearence for first motor mount so the belt does not clip into it
 
@@ -41,7 +41,16 @@ Mounted the control board (14 minutes)
 
 ![image](https://github.com/user-attachments/assets/b5fe10d3-dd9d-49cd-bb22-27a299731e3c)
 
-Added mount for power switch (43 Minutes)
+Mounted PSU (46 minutes)
+
+Added mount for power switch (33 Minutes)
 
 ![image](https://github.com/user-attachments/assets/6b3ca01a-b613-467e-8cec-470e8312a775)
+
+finalized z axis motor positions will make mounts tomorrow
+ 
+Cad at end of day 5
+
+![image](https://github.com/user-attachments/assets/22d49697-b906-4fc7-be20-7f0098709b79)
+
 
