@@ -36,3 +36,7 @@ Adjusted clearence for first motor mount so the belt does not clip into it
 ![clip no yes](https://github.com/user-attachments/assets/99e0faef-5eaa-4cc0-afc2-3fd0d8358593)
 
 [Found wiring diagram for BIQU Manta e3ez](https://os.ratrig.com/docs/boards/btt/manta-e3ez/) [another one](https://cdn.shopify.com/s/files/1/1619/4791/files/E3EZ_1200x.png?v=1700039972)
+
+Mounted the control board 
+
+![image](https://github.com/user-attachments/assets/b5fe10d3-dd9d-49cd-bb22-27a299731e3c)
