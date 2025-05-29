@@ -1,4 +1,4 @@
-Updated 5/27/25
+Updated 5/28/25 changed 400mm lead screw our for 350mm lead screw
 
 - (2x) Stepperonline Nema 17 Bipolar 0.9deg 36Ncm(51oz.in) 0.9A 42x42x40mm 4 Wires: [Amazon](https://a.co/d/cxJGrp1) [Stepperonline](https://www.omc-stepperonline.com/nema-17-bipolar-0-9deg-36ncm-51oz-in-0-9a-5-4v-42x42x40mm-4-wires-17hm15-0904s)
 - iexcell 25 Pcs M5 x 60mm Thread Pitch 0.8 mm Stainless Steel 304 Hex Socket Flat Head Cap Screws Bolts Kit: [Amazon](https://a.co/d/i7QItlL)
@@ -8,7 +8,7 @@ Updated 5/27/25
 - 4Pack 2020 Aluminum Extrusion V-Slot 500mm: [Amazon](https://a.co/d/bfFlIh4)
 - 565 Pieces M3 Screws Nuts Washers Set, Sutemribor M3 x 4/6/8/10/12/16/20mm Countersunk Head: [Amazon](https://a.co/d/4XWbT3w)
 - Anycubic Kobra 3 Build plate assembly: [Amazon](https://a.co/d/5mofGed)
-- 2PCS 400mm（15.75 Inches）Tr8x8 Lead Screw with T8 Brass Nut (Acme Thread, 2mm Pitch, 4 Starts: [Amazon](https://a.co/d/eAzXcd1)
+- 2PCS 350mm（13.78 Inches）Tr8x8 Lead Screw with T8 Brass Nut (Acme Thread, 2mm Pitch, 4 Starts: [Amazon](https://a.co/d/1udvqCi)
 - 5mm to 8mm Aluminium Alloy Shaft Coupling: [Amazon](https://a.co/d/2yQQRR6)
 - 580 PCS M3 Black Nylon Standoff Kit with Spacers, Screws, and Nuts: [Amazon](https://a.co/d/3ski8s5)
 - 10pcs Micro Limit Switch KW12-3 AC 250V 5A SPDT 1NO 1NC Micro Switch With Roller: [Amazon](https://a.co/d/j1za4Sr)
