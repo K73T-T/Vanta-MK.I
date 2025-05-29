@@ -1,4 +1,4 @@
-Updated 5/28/25 changed 400mm lead screw out for 350mm lead screw and added c14 socket from BigTreeTech
+Updated 5/28/25 changed 400mm lead screw out for 350mm lead screw and added c14 socket from BigTreeTech and a right angle c13 power cable
 
 - (2x) Stepperonline Nema 17 Bipolar 0.9deg 36Ncm(51oz.in) 0.9A 42x42x40mm 4 Wires: [Amazon](https://a.co/d/cxJGrp1) [Stepperonline](https://www.omc-stepperonline.com/nema-17-bipolar-0-9deg-36ncm-51oz-in-0-9a-5-4v-42x42x40mm-4-wires-17hm15-0904s)
 - iexcell 25 Pcs M5 x 60mm Thread Pitch 0.8 mm Stainless Steel 304 Hex Socket Flat Head Cap Screws Bolts Kit: [Amazon](https://a.co/d/i7QItlL)
@@ -19,6 +19,7 @@ Updated 5/28/25 changed 400mm lead screw out for 350mm lead screw and added c14 
 - (2x) 2Pcs 6mm x 400mm (0.236 x 15.74 inches) Vigorous Linear Motion Rods: [Amazon](https://a.co/d/f1f063z)
 - 8Pcs LM6UU Linear Bearings: [Amazon](https://a.co/d/eilXz34)
 - Zeberoxyz 2PCS Set GT2 Synchronous Wheel 20&36 Teeth 5mm Bore: [Amazon](https://a.co/d/fhxlShq)
+- 90 Degree C13 power cable: [Amazon](https://a.co/d/1g4C2Nd)
 
 
 - trianglelab M8 inductive proximity sensor: [Triangle-Lab](https://trianglelab.net/products/m8)
