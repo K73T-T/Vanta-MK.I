@@ -1,4 +1,4 @@
-Updated 5/28/25 changed 400mm lead screw our for 350mm lead screw and added c14 socket from BigTreeTech
+Updated 5/28/25 changed 400mm lead screw out for 350mm lead screw and added c14 socket from BigTreeTech
 
 - (2x) Stepperonline Nema 17 Bipolar 0.9deg 36Ncm(51oz.in) 0.9A 42x42x40mm 4 Wires: [Amazon](https://a.co/d/cxJGrp1) [Stepperonline](https://www.omc-stepperonline.com/nema-17-bipolar-0-9deg-36ncm-51oz-in-0-9a-5-4v-42x42x40mm-4-wires-17hm15-0904s)
 - iexcell 25 Pcs M5 x 60mm Thread Pitch 0.8 mm Stainless Steel 304 Hex Socket Flat Head Cap Screws Bolts Kit: [Amazon](https://a.co/d/i7QItlL)
