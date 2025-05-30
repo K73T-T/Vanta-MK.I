@@ -1,4 +1,4 @@
-will update to a BOM.csv tomorrow 5/29/25
+will update to a BOM.csv tomorrow ~5/29/25~
 
 Updated 5/28/25 changed 400mm lead screw out for 350mm lead screw and added c14 socket from BigTreeTech and a right angle c13 power cable
 
