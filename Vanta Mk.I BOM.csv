@@ -1,0 +1,36 @@
+Hardware,,,,,
+,PART,UNIT COST,QUANTITY,TOTAL,LINK
+,M5 x 45 countersunk hexbolt,$3.34,1,$3.34,Aliexpress
+,GT2 Timing Belt Tensioner Torsion Spring,$1.63,1,$1.63,Aliexpress
+,5 to 8 mm shaft coupling ,$1.21,2,$2.42,Aliexpress
+,2m gt2 6mm width open loop belt,$5.25,1,$5.25,Ailexpress
+,Micro Limit Switch KW12-3 AC 250V 5A SPDT 1NO 1NC Micro Switch With Roller,$3.17,1,$3.17,Ailexpress
+,4 pack 2020 Aluminum Extrusion V-Slot 500mm,$25.99,1,$25.99,Amazon
+,2PCS 350mm（13.78 Inches）Tr8x8 Lead Screw with T8 Brass Nut,$13.99,1,$13.99,Amazon
+,M3 countersunk screw set,$9.99,1,$9.99,Amazon
+,Anycubic Kobra 3 Build plate assembly,$24.99,1,$24.99,Amazon
+,m3 standoff set ,$6.99,1,$6.99,Amazon
+,24V 480W Switching Power Supply Adapter SMPS AC 110/220V to DC 24V,$31.99,1,$31.99,Amazon
+,2Pcs 6mm x 400mm (0.236 x 15.74 inches) Vigorous Linear Motion Rods,$9.39,2,$18.78,Amazon
+,2 PCS 10 x 450mm (0.394 x 17.71 inches) Vigorous Linear Motion Rod,$15.99,2,$31.98,Amazon
+,8Pcs LM6UU Linear Bearings,$8.81,1,$8.81,Amazon
+,Zeberoxyz 2PCS Set GT2 Synchronous Wheel 20&36 Teeth 5mm Bore,$10.89,1,$10.99,Amazon
+,,,,,
+Electronics ,,,,,
+,PART,UNIT COST ,QUANTITY,TOTAL,LINK
+,trianglelab M8 inductive proximity sensor,$3.27,1,$3.27,Triangle-Lab
+,Trianglelab 1.75 24V All-metal v6 hotend,$14.33,1,$14.33,Triangle-Lab
+,Trianglelab 24V DDE V2 Orbiter 2.0 NO Hotend,$45.10,1,$45.10,Triangle-Lab
+,BIQU Manta E3EZ V1.0+ 5pcs EZ2209 + TFT35SPI V2.1 (For CB1 V2.2),$69.22,1,$69.22,BigTreeTech
+,BIGTREETECH CB2,$37.99,1,$37.99,BigTreeTech
+,BiGTREETECH CB2 Heatsink,$5.90,1,$5.90,BigTreeTech
+,BIQU 15A 250V Rocker Switch Power,$5.40,1,$5.40,BigTreeTech
+,STEPPERONLINE Nema 17 Stepper Motor 0.9deg 38mm 30Ncm 1.5A,$16.99,2,$33.98,Aliexpress
+,STEPPERONLINE Stepper Motor Nema 17 Bipolar 40mm 64oz.in(45Ncm) 2A,$10.99,2,$21.98,Aliexpress
+,,,,,
+Tools,,,,,
+,PART ,UNIT COST,QUANTITY ,TOTAL,LINK
+,M3 M4 M5 Tap set,$4.13,1,$4.13,Aliexpress
+,13pc Titanium Plated Drillbit set 1.5-6.5mm,$4.09,1,$4.09,Aliexpress
+,,,,,
+,,,Sum,$445.70,
