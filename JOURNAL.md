@@ -53,4 +53,7 @@ Cad at end of day 5
 
 ![image](https://github.com/user-attachments/assets/22d49697-b906-4fc7-be20-7f0098709b79)
 
+Day 6 5/30/25 
 
+Made A bill of meterials and cut the cost down by ~$50
+4:36 PM - 7:02 PM 
