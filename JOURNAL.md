@@ -57,3 +57,10 @@ Day 6 5/30/25
 
 Made A bill of meterials and cut the cost down by ~$50
 4:36 PM - 7:02 PM 
+
+Day 7 5/31/25 More cad
+
+Mounted both z axis motors 46 Minutes
+
+![image](https://github.com/user-attachments/assets/1a4c9fea-3753-4662-85b0-32e1edee57e4)
+
