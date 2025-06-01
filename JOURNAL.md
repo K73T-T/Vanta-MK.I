@@ -69,3 +69,6 @@ Moved control board for better accessibility - 13 minutes
 ![image](https://github.com/user-attachments/assets/b44285db-c9a5-4855-9c27-bc5dfb4da10d)
 
 I realized that the second arm was not possible to cnc so i optimized it for subtractive manufacturing - 1 hour 33 minutes
+
+![image](https://github.com/user-attachments/assets/1f250a2d-2dec-444e-ae18-60ff970de816)
+
