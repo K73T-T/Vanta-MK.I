@@ -19,7 +19,7 @@ Cad at end of day 3
 
 ![image](https://github.com/user-attachments/assets/0ba0139a-3437-4226-acea-aa4e997f04ed)
 
-Start of Day 4 5/27/25 Making a parts list and mounting second SCARD motor
+Start of Day 4 5/27/25 Making a parts list and mounting second SCARA motor
 9:34 PM - 11:42 PM 3 hours 8 minutes
 
 [Parts List](https://github.com/K73T-T/Vanta-MK.I/blob/main/Parts%20list.md)
@@ -55,7 +55,7 @@ Cad at end of day 5
 
 Day 6 5/30/25 
 
-Made A bill of meterials and cut the cost down by ~$50
+Made A bill of meterials
 4:36 PM - 7:02 PM 
 
 Day 7 5/31/25 More cad
