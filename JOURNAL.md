@@ -76,5 +76,6 @@ after making a mount for the extruder and hot end it removed over 100mm of usabl
 
 ![image](https://github.com/user-attachments/assets/5264fdcd-dabd-4d8d-9218-680cdc80b4c6)
 
-![image](https://github.com/user-attachments/assets/0c1788c8-7e19-4ae3-bb32-a65258384484)
+![image](https://github.com/user-attachments/assets/35c56497-5322-4b0a-b7f7-5de7746e4cb5)
+
 
