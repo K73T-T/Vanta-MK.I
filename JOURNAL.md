@@ -64,7 +64,7 @@ Mounted both z axis motors - 46 Minutes
 
 ![image](https://github.com/user-attachments/assets/1a4c9fea-3753-4662-85b0-32e1edee57e4)
 
-Moved controll board for better accessibility - 13 minutes
+Moved control board for better accessibility - 13 minutes
 
 ![image](https://github.com/user-attachments/assets/b44285db-c9a5-4855-9c27-bc5dfb4da10d)
 
