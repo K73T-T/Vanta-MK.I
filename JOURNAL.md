@@ -72,3 +72,8 @@ I realized that the second arm was not possible to cnc so i optimized it for sub
 
 ![image](https://github.com/user-attachments/assets/1f250a2d-2dec-444e-ae18-60ff970de816)
 
+after making a mount for the extruder and hot end it removed over 100mm of usable z aixs build volume so i made the disicion to incress the hight of the printer by 100m by changging the 2020 extrusions from 500 to 600 mm and the 10x450 mm rods to 10x550mm rods - 11:35 PM - 1:59 AM 2 hours 24 minutes
+
+![image](https://github.com/user-attachments/assets/5e4149c5-7773-4414-8a24-e971fe72fc80)
+
+![image](https://github.com/user-attachments/assets/0c1788c8-7e19-4ae3-bb32-a65258384484)
