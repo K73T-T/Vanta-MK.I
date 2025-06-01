@@ -5,8 +5,11 @@ Vanta MK.I is an experimental custom 3d printer build using a Serial [SCARA](htt
 - Capible of printing up to 600mm/s reliably
 - Capible of printing ABS, ASA, and TPU 65A
 - Easily serviceable
-
-
+- full 24v electrical system
+- V6 hotend
+- Direct drive extruder
+- Heated build plate
+- Greater than 200x200x250 build volume
 
 
  Cad As of 5/31/25 
