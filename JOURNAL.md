@@ -78,4 +78,8 @@ after making a mount for the extruder and hot end it removed over 100mm of usabl
 
 ![image](https://github.com/user-attachments/assets/35c56497-5322-4b0a-b7f7-5de7746e4cb5)
 
+made feet for the bottem of the printer 47 minutes
+
+![image](https://github.com/user-attachments/assets/f8e41873-4fe0-4045-b288-2e3f48937b83)
+
 
