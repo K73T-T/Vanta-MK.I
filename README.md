@@ -10,6 +10,7 @@ Vanta MK.I is an experimental custom 3d printer build using a Serial [SCARA](htt
 - Direct drive extruder
 - Heated build plate
 - Greater than 200x200x250 build volume
+- stays togeter when tipped upside down
 
 
 
