@@ -82,4 +82,10 @@ made feet for the bottem of the printer 47 minutes
 
 ![image](https://github.com/user-attachments/assets/f8e41873-4fe0-4045-b288-2e3f48937b83)
 
+Day 8 6/3/25 
+
+Worked out the resolution of the printer was ~0.21 mm and i was dissatisfied with this so i did some research and found [this video by Unnecessary Automation on youtube](https://www.youtube.com/watch?v=52_t2FcqHOs) of them making a strain wave gearbox to increse the resolution of a nema 17 stepper motor and found that they published the files on [printables](https://www.printables.com/model/1098371-strain-wave-gearbox/files) so i modified them a bit to work better for my application, and found that after the addition of this gearbox it greatly improved the resolution from ~0.21mm to ~10-20 microns (0.01 - 0.02 mm) without microstepping andd with a microstep of 1/2 it brings the resolution down to sub 10 micron accuracy which is much much better than before (~21x better) with the only downside being the theoretical speed of the printer will be greatly lowered (time spent ~ 2 hours)
+
+![image](https://github.com/user-attachments/assets/7a11c302-c3a0-4ffb-b88d-6d3e6c67e94a)
+
 
