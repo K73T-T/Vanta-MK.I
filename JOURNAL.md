@@ -90,11 +90,11 @@ Worked out the resolution of the printer was ~0.21 mm and i was dissatisfied wit
 
 Day 9 6/9/25 
 
-Made a simple external spool roller 45 Minutes
+Made a simple external spool roller (45 Minutes)
 
 ![image](https://github.com/user-attachments/assets/02a4a283-034b-4349-822f-0d29168ae329)
 
-Added a PTFE tube mounting point to for a PTFE tube to go from the frame to the extruder 22 Minutes
+Added a PTFE tube mounting point to for a PTFE tube to go from the frame to the extruder (22 Minutes)
 
 ![image](https://github.com/user-attachments/assets/bdc7b033-5deb-4bea-b1b5-b15d14c430b5)
 
