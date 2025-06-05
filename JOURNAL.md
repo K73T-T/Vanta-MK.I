@@ -88,4 +88,10 @@ Worked out the resolution of the printer was ~0.21 mm and i was dissatisfied wit
 
 ![image](https://github.com/user-attachments/assets/7a11c302-c3a0-4ffb-b88d-6d3e6c67e94a)
 
+Day 9 6/9/25 
+
+Made a simple external spool roller 30 Minutes
+
+![image](https://github.com/user-attachments/assets/02a4a283-034b-4349-822f-0d29168ae329)
+
 
