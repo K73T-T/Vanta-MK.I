@@ -96,5 +96,6 @@ Made a simple external spool roller 45 Minutes
 
 Added a PTFE tube mounting point to for a PTFE tube to go from the frame to the extruder 22 Minutes
 
-![image](https://github.com/user-attachments/assets/c59c1ec0-d912-49b2-8805-2721f3be303e)
+![image](https://github.com/user-attachments/assets/bdc7b033-5deb-4bea-b1b5-b15d14c430b5)
+
 
