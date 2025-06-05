@@ -1,4 +1,4 @@
-Vanta Mk.I by Joshua aka Controw_
+# Vanta Mk.I by Joshua aka Controw_
 
 5/24/25 Start cad and deciding on components 
  11:04am - 9:48pm 10 hours and 44 minutes 
