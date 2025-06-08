@@ -98,4 +98,14 @@ Added a PTFE tube mounting point to for a PTFE tube to go from the frame to the 
 
 ![image](https://github.com/user-attachments/assets/bdc7b033-5deb-4bea-b1b5-b15d14c430b5)
 
+Day 10 6/8/25
+
+Made use of the extra 200mm of 2020 extursion by adding a support to the front two frame rods (23 Minutes)
+
+![image](https://github.com/user-attachments/assets/811b9d6f-91d0-4a80-9864-c1734afa2ad8)
+
+Added suport arms to the rear 2 frame rods (34 minutes)
+
+![image](https://github.com/user-attachments/assets/981b5d27-03d6-44b1-80dc-6f5ee2fd174e)
+
 
