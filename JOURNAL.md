@@ -113,3 +113,6 @@ Mounted limit switches (20 minutes)
 ![image](https://github.com/user-attachments/assets/e0b35399-64e7-49dc-ad3d-0ff047918941)
 ![image](https://github.com/user-attachments/assets/ee25fc10-637b-4f31-9b67-870790f89a2f)
 
+Lightend the build plate mount (30 minutes)
+
+![image](https://github.com/user-attachments/assets/b75d2d45-9ac2-45da-8614-0f1339ccf9ac)
