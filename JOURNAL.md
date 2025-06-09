@@ -108,4 +108,8 @@ Added suport arms to the rear 2 frame rods (34 minutes)
 
 ![image](https://github.com/user-attachments/assets/981b5d27-03d6-44b1-80dc-6f5ee2fd174e)
 
+Mounted limit switches (20 minutes)
+
+![image](https://github.com/user-attachments/assets/e0b35399-64e7-49dc-ad3d-0ff047918941)
+![image](https://github.com/user-attachments/assets/ee25fc10-637b-4f31-9b67-870790f89a2f)
 
