@@ -116,3 +116,10 @@ Mounted limit switches (20 minutes)
 Lightend the build plate mount (30 minutes)
 
 ![image](https://github.com/user-attachments/assets/b75d2d45-9ac2-45da-8614-0f1339ccf9ac)
+
+Day 11 6/11/25
+
+After some feedback I have decied to change the frame to use 2020 extrusions instead of the 10mm rods to increase stabity  (2 Hours)
+
+![image](https://github.com/user-attachments/assets/95a94ac4-728b-4cd0-a277-ec17bbb38e87)
+
