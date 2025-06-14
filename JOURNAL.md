@@ -128,3 +128,13 @@ Day 12 6/12/25
 Added two more 2020 extrusions to the top and moved the PTFE tube fitting (30 minutes)
 
 ![image](https://github.com/user-attachments/assets/fd705aae-5d44-4299-b68e-b0defe60ab57)
+
+Day 13 6/13/25
+
+Added linear rails for the build plate to make it more stable (1.5 hours)
+
+![image](https://github.com/user-attachments/assets/b3114787-e38c-41d9-9dca-63ca480827fb)
+
+
+
+
