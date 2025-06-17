@@ -1,5 +1,4 @@
-# This Strain Wave Gearbox was made by Unnecessary Automation and published to [printables](https://www.printables.com/model/1098371-strain-wave-gearbox) with the lisence [CC BY-NC-SA 4.0 ](https://creativecommons.org/licenses/by-nc-sa/4.0/) which allows the ability to Share — copy and redistribute the material in any medium or format. and Adapt — remix, transform, and build upon the material 
-and must be used under the terms:
+# This Strain Wave Gearbox was made by Unnecessary Automation and published to [printables](https://www.printables.com/model/1098371-strain-wave-gearbox) with the lisence [CC BY-NC-SA 4.0 ](https://creativecommons.org/licenses/by-nc-sa/4.0/) which allows the ability to Share — copy and redistribute the material in any medium or format. and Adapt — remix, transform, and build upon the material and must be used under the terms:
 
 # Attribution — You must give appropriate credit , provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
