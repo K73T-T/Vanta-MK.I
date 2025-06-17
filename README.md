@@ -1,5 +1,5 @@
 # Vanta-MK.I
-Vanta MK.I is an experimental custom 3d printer build using a Serial [SCARA](https://en.wikipedia.org/wiki/SCARA) system as its motion system instead of the traditnal Cartesian or Core xy configurations.
+Vanta MK.I is an experimental custom 3d printer build using a Serial [SCARA](https://en.wikipedia.org/wiki/SCARA) system as its motion system instead of the traditional Cartesian or Core xy configurations.
 
 # Project goals
 - Capible of printing up to 600mm/s
@@ -12,7 +12,6 @@ Vanta MK.I is an experimental custom 3d printer build using a Serial [SCARA](htt
 - Heated build plate
 - Greater than 200x200x250 build volume
 - stays togeter when tipped upside down
-
 
 
 # Cad As of 6/16/25 
