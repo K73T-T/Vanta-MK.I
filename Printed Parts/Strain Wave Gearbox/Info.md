@@ -1,7 +1,7 @@
 # License Notice for Modified Strain Wave Gearbox
 Original design by [Unnecessary Automation](https://www.youtube.com/channel/UCuGbqmLhAL3zMx8-7ExxFag)
 Published on Printables: [Strain Wave Gearbox](https://www.printables.com/model/1098371-strain-wave-gearbox)
-Licensed under: [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Licensed under: [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
 # This license allows you to:
 
