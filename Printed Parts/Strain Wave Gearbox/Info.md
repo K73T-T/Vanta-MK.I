@@ -20,7 +20,7 @@ ShareAlike — If you remix, transform, or build upon the material, you must dis
 # 🔧 Modifications I Made:
 Redesigned the output shaft to resemble that of a standard NEMA 17 motor.
 
-Made the shaft a separate part that threads into the output gear for horizontal printing and improved strength.
+Made the shaft a separate part that threads into the output gear for horizontal printing to improved strength.
 
 Adjusted the mounting pattern to match NEMA 17 hole spacing for direct compatibility with standard brackets.
 
