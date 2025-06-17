@@ -135,6 +135,11 @@ Added linear rails for the build plate to make it more stable (1.5 hours)
 
 ![image](https://github.com/user-attachments/assets/b3114787-e38c-41d9-9dca-63ca480827fb)
 
+Day 14 6/16/25
+
+Moved limit swtiches because the way they were before would not work for a SCARA system (25 Minutes)
+
+![image](https://github.com/user-attachments/assets/95642553-bf55-4235-9a9a-70c76c5141b7)
 
 
 
