@@ -1,6 +1,8 @@
 # Vanta Mk.I by Joshua aka Controw_
 Created 5/20/25
+
 ~ 70 hours logged
+
 5/24/25 Start cad and deciding on components 
  11:04am - 9:48pm 10 hours and 44 minutes 
 - for the controller I decided to go with the BTT Manta E3EZ since it is easy to setup and it has ports for dual Z motors
