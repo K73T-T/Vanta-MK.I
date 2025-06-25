@@ -11,6 +11,9 @@ Created 5/20/25
 - for the buildplate I decied that it would be more cost effect and reliable to go with a buildplate assembly from a printer that is already on the market, and after some looking on the internet for a printer with a build plate that is a size that I am happy with I went with the Kobra 3 build plate assembly from Anycubic since it is heated and cost affective
 
 5/25/25 Work on cad again and finalizing components
+
+- Went with 2 indepentant z motors for stability, even motion, and dual z give the ability to shift the build plate ever so slightly for tramming
+
  12:37PM to 3:12AM 14 hours 35 minutes 
 
 cad at end of day 2
@@ -19,7 +22,7 @@ cad at end of day 2
 
 Start of day 3 5/26/25 working on cad a bit more
  12:52 PM - 5:36 PM 4 hours 44 minutes
-- got the general place for the z axis motors and lead screws
+- got the general place for the z axis motors and lead screws 
 - mounted rails to motion arm
 
 Cad at end of day 3 
