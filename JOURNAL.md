@@ -1,7 +1,7 @@
 # Vanta Mk.I by Joshua aka Controw_
 Created 5/20/25
 
-~ 70 hours logged
+~ 70 hours
 
 5/24/25 Start cad and deciding on components 
  11:04am - 9:48pm 10 hours and 44 minutes 
