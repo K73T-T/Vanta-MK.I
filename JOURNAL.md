@@ -6,6 +6,7 @@
 - for motors I decied to go with stepperonline Nema 17 0.9 deg step for the arms since they need to be as precise as possible and nema 17 1.8 deg step for the Z axis
 - for the extruder I choose the orbiter v2 kit from Triangle-lab as it is a powerfull and reliable direct drive extruder
 - for the buildplate I decied that it would be more cost effect and reliable to go with a buildplate assembly from a printer that is already on the market, and after some looking on the internet for a printer with a build plate that is a size that I am happy with I went with the Kobra 3 build plate assembly from Anycubic since it is heated and cost affective
+
 5/25/25 Work on cad again and finalizing components
  12:37PM to 3:12AM 14 hours 35 minutes 
 
