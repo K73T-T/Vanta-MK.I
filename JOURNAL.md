@@ -3,18 +3,23 @@ Created 5/20/25
 
 ~ 70 hours
 
-### 5/24/25 Start cad and deciding on components 
+## 5/24/25 Start cad and deciding on components 
  11:04am - 9:48pm 10 hours and 44 minutes 
+ 
+ ### Control Board
 - I chose the BTT Manta E3EZ as the main controller board since setup is straightforward, and the fact that it allows the installation of a compute module that supports use of Klipper as the printing software (which I want to use.) Thankfully, it includes native support for dual Z motors- good for improving bed leveling precision in this build. I considered other boards, but the E3EZ's plug-and-play layout and expandability made it a preferable fit. Looking forward to testing its CAN bus support down the line if I add toolhead mods.
-
+  
+### Motors
 - For the motors, I chose the StepperOnline NEMA 17 stepper motors with 0.9° step angle. High-resolution movement ensures accurate articulation and positioning. Chose standard NEMA 17 motors with 1.8° step angle for the Z-axis since precision is less critical there and for less cost.
 
+### Extruder
 - For the extruder, I chose the Orbiter V2 kit from Triangle-lab (Direct Drive). It has high torque and a compact form, and offers reliable filament control for rather precise printing, especially with flexible or exotic materials. Lightweight planetary gear system minimizes strain on the carriage while maintaining performance.
 
+### Build Plate
 - For the build plate, I chose the Anycubic Kobra 3 Build Plate Assembly. Wanted to use an off-the-shelf build plate assembly from an existing printer model to reduce complexity and cost, and I can cut off time from the construction of the full assembly. After comparing several options online, the Kobra 3 plate since I’m happy with the size, cost, and since it's heated.
 
 
-# 5/25/25 Work on cad again and finalizing components
+## 5/25/25 Work on cad again and finalizing components
 
 - Went with 2 indepentant z motors for stability, even motion, and dual z give the ability to shift the build plate ever so slightly for tramming
 - for the XY ganrty i went for linear rods because they are easy, inexpensive, and reliable
@@ -25,7 +30,7 @@ cad at end of day 2
 
 ![image](https://github.com/user-attachments/assets/8e7646f1-fcd5-4da5-959e-c68dcf80a550) 
 
-# Start of day 3 5/26/25 working on cad a bit more
+## Start of day 3 5/26/25 working on cad a bit more
  12:52 PM - 5:36 PM 4 hours 44 minutes
 - got the general place for the z axis motors and lead screws 
 - mounted rails to motion arm
@@ -34,7 +39,7 @@ Cad at end of day 3
 
 ![image](https://github.com/user-attachments/assets/0ba0139a-3437-4226-acea-aa4e997f04ed)
 
-# Start of Day 4 5/27/25 Making a parts list and mounting second SCARA motor
+## Start of Day 4 5/27/25 Making a parts list and mounting second SCARA motor
 9:34 PM - 11:42 PM 3 hours 8 minutes
 
 [Parts List](https://github.com/K73T-T/Vanta-MK.I/blob/main/Parts%20list.md)
@@ -43,7 +48,7 @@ Mounted second motor
 
 ![image](https://github.com/user-attachments/assets/b7da0158-a4f8-48d1-ae84-e2e315986f14)
 
-# Day 5 5/28/25 
+## Day 5 5/28/25 
 8:46 PM - 11:12 PM
 
 Adjusted clearence for first motor mount so the belt does not clip into it
@@ -68,12 +73,12 @@ Cad at end of day 5
 
 ![image](https://github.com/user-attachments/assets/22d49697-b906-4fc7-be20-7f0098709b79)
 
-# Day 6 5/30/25 
+## Day 6 5/30/25 
 
 Made A bill of meterials
 4:36 PM - 7:02 PM 
 
-# Day 7 5/31/25 More cad
+## Day 7 5/31/25 More cad
 
 Mounted both z axis motors - 46 Minutes
 
@@ -97,13 +102,13 @@ made feet for the bottem of the printer 47 minutes
 
 ![image](https://github.com/user-attachments/assets/f8e41873-4fe0-4045-b288-2e3f48937b83)
 
-# Day 8 6/3/25 
+## Day 8 6/3/25 
 
 Worked out the resolution of the printer was ~0.21 mm and i was dissatisfied with this so i did some research and found [this video by Unnecessary Automation on youtube](https://www.youtube.com/watch?v=52_t2FcqHOs) of them making a strain wave gearbox to increse the resolution of a nema 17 stepper motor and found that they published the files on [printables](https://www.printables.com/model/1098371-strain-wave-gearbox/files) so i modified them a bit to work better for my application, and found that after the addition of this gearbox it greatly improved the resolution from ~0.21mm to ~10-20 microns (0.01 - 0.02 mm) without microstepping and with a microstep of 1/2 it brings the resolution down to sub 10 micron accuracy which is much much better than before (~21x better) with the only real downside being the theoretical speed of the printer will be greatly lowered (time spent ~ 2 hours)
 
 ![image](https://github.com/user-attachments/assets/7a11c302-c3a0-4ffb-b88d-6d3e6c67e94a)
 
-# Day 9 6/4/25 
+## Day 9 6/4/25 
 
 Made a simple external spool roller (45 Minutes)
 
@@ -113,7 +118,7 @@ Added a PTFE tube mounting point to for a PTFE tube to go from the frame to the 
 
 ![image](https://github.com/user-attachments/assets/bdc7b033-5deb-4bea-b1b5-b15d14c430b5)
 
-# Day 10 6/8/25
+## Day 10 6/8/25
 
 Made use of the extra 200mm of 2020 extursion by adding a support to the front two frame rods (23 Minutes)
 
@@ -132,25 +137,25 @@ Lightend the build plate mount (30 minutes)
 
 ![image](https://github.com/user-attachments/assets/b75d2d45-9ac2-45da-8614-0f1339ccf9ac)
 
-# Day 11 6/11/25
+## Day 11 6/11/25
 
 After some feedback I have decied to change the frame to use 2020 extrusions instead of the 10mm rods to increase stabity  (2 Hours)
 
 ![image](https://github.com/user-attachments/assets/95a94ac4-728b-4cd0-a277-ec17bbb38e87)
 
-# Day 12 6/12/25
+## Day 12 6/12/25
 
 Added two more 2020 extrusions to the top and moved the PTFE tube fitting (30 minutes)
 
 ![image](https://github.com/user-attachments/assets/fd705aae-5d44-4299-b68e-b0defe60ab57)
 
-# Day 13 6/13/25
+## Day 13 6/13/25
 
 Added linear rails for the build plate to make it more stable (1.5 hours)
 
 ![image](https://github.com/user-attachments/assets/b3114787-e38c-41d9-9dca-63ca480827fb)
 
-# Day 14 6/16/25
+## Day 14 6/16/25
 
 Moved limit swtiches because the way they were before would not work for a SCARA system (25 Minutes)
 
