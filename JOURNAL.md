@@ -5,11 +5,14 @@ Created 5/20/25
 
 # 5/24/25 Start cad and deciding on components 
  11:04am - 9:48pm 10 hours and 44 minutes 
-- for the controller I decided to go with the BTT Manta E3EZ since it is easy to setup and it has ports for dual Z motors
-- for motors I decied to go with stepperonline Nema 17 0.9 deg step for the arms since they need to be as precise as possible and nema 17 1.8 deg step for the Z axis
-- for the extruder I chose the orbiter v2 kit from Triangle-lab as it is a powerful and reliable direct drive extruder as it uses a planitary gearbox that gives it up to 15kg of driving force and provieds smooth rotation
-- for the buildplate I decied that it would be more cost affective
-   and reliable to go with a buildplate assembly from a printer that is already on the market, and after some looking on the internet for a printer with a build plate that is a size that I am happy with I went with the Kobra 3 build plate assembly from Anycubic since it is heated and cost affective
+- I chose the BTT Manta E3EZ as the main controller board since setup is straightforward, and the fact that it allows the installation of a compute module that supports use of Klipper as the printing software (which I want to use.) Thankfully, it includes native support for dual Z motors- good for improving bed leveling precision in this build. I considered other boards, but the E3EZ's plug-and-play layout and expandability made it a preferable fit. Looking forward to testing its CAN bus support down the line if I add toolhead mods.
+
+- For the motors, I chose the StepperOnline NEMA 17 stepper motors with 0.9° step angle. High-resolution movement ensures accurate articulation and positioning. Chose standard NEMA 17 motors with 1.8° step angle for the Z-axis since precision is less critical there and for less cost.
+
+- For the extruder, I chose the Orbiter V2 kit from Triangle-lab (Direct Drive). It has high torque and a compact form, and offers reliable filament control for rather precise printing, especially with flexible or exotic materials. Lightweight planetary gear system minimizes strain on the carriage while maintaining performance.
+
+- For the build plate, I chose the Anycubic Kobra 3 Build Plate Assembly. Wanted to use an off-the-shelf build plate assembly from an existing printer model to reduce complexity and cost, and I can cut off time from the construction of the full assembly. After comparing several options online, the Kobra 3 plate since I’m happy with the size, cost, and since it's heated.
+
 
 # 5/25/25 Work on cad again and finalizing components
 
