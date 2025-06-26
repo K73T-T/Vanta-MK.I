@@ -21,9 +21,14 @@ Created 5/20/25
 
 ## 5/25/25 Work on cad again and finalizing components
 
-- Went with 2 independant z motors for stability, even motion, and dual z give the ability to shift the build plate ever so slightly for tramming
-- for the XY gantry i went for linear rods because they are easy, inexpensive, and reliable
-- for the PSU I went with a basic 24V 20A 480W 
+### Z Axis Configuration
+- Went with 2 independent Z motors for stability, even motion, and dual Z gives the ability to shift the build plate ever so slightly for tramming
+
+### XY Gantry
+- For the XY gantry, I went for linear rods because they are easy, inexpensive, and reliable
+
+### PSU
+- for the PSU I went with a basic 24V 20A 480W Because of its versatility
 
  12:37PM to 3:12AM 14 hours 35 minutes 
 
@@ -93,7 +98,7 @@ I realized that the second arm was not possible to cnc so i optimized it for sub
 
 ![image](https://github.com/user-attachments/assets/1f250a2d-2dec-444e-ae18-60ff970de816)
 
-after making a mount for the extruder and hot end it removed over 100mm of usable z aixs build volume so i made the disicion to increase the hight of the printer by 100m by changging the 2020 extrusions from 500 to 600 mm and the 10x450 mm rods to 10x550mm rods - 11:35 PM - 1:59 AM 2 hours 24 minutes
+after making a mount for the extruder and hot end it removed over 100mm of usable z aixs build volume so i made the disicion to increase the hight of the printer by 100m by changing the 2020 extrusions from 500 to 600 mm and the 10x450 mm rods to 10x550mm rods - 11:35 PM - 1:59 AM 2 hours 24 minutes
 
 ![image](https://github.com/user-attachments/assets/5264fdcd-dabd-4d8d-9218-680cdc80b4c6)
 
