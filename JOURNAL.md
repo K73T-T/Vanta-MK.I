@@ -38,8 +38,8 @@ cad at end of day 2
 
 ## Start of day 3 5/26/25 working on cad a bit more
  12:52 PM - 5:36 PM 4 hours 44 minutes
-- got the general place for the z axis motors and lead screws 
-- mounted rails to motion arm
+- Got the general place for the z axis motors and lead screws 
+- Mounted rails to motion arm
 
 Cad at end of day 3 
 
