@@ -111,7 +111,7 @@ after making a mount for the extruder and hot end it removed over 100mm of usabl
 
 made feet for the bottem of the printer 47 minutes
 
-I modeledd them after the feet for the Anycubic kobra 2 Neo because I already have a set of them since I swaped them out for taller ones on my kobra 2 neo
+I modeled them after the feet for the Anycubic kobra 2 Neo because I already have a set of them since I swaped them out for taller ones on my kobra 2 neo
 
 ![image](https://github.com/user-attachments/assets/f8e41873-4fe0-4045-b288-2e3f48937b83)
 
