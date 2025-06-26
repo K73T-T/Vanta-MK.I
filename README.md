@@ -13,7 +13,7 @@ Vanta MK.I is an experimental custom 3d printer build using a Serial [SCARA](htt
 - stays togeter when tipped upside down
 
 
-# Cad As of 6/16/25 
+# Cad As of 6/26/25 
 
 ![image](https://github.com/user-attachments/assets/fbdb1ea5-dcaa-4c1b-9441-bd1a06935569)
 
