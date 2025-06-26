@@ -3,7 +3,7 @@ Created 5/20/25
 
 ~ 70 hours
 
-## 5/24/25 Start cad and deciding on components 
+### 5/24/25 Start cad and deciding on components 
  11:04am - 9:48pm 10 hours and 44 minutes 
 - I chose the BTT Manta E3EZ as the main controller board since setup is straightforward, and the fact that it allows the installation of a compute module that supports use of Klipper as the printing software (which I want to use.) Thankfully, it includes native support for dual Z motors- good for improving bed leveling precision in this build. I considered other boards, but the E3EZ's plug-and-play layout and expandability made it a preferable fit. Looking forward to testing its CAN bus support down the line if I add toolhead mods.
 
