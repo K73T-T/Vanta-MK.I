@@ -21,8 +21,8 @@ Created 5/20/25
 
 ## 5/25/25 Work on cad again and finalizing components
 
-- Went with 2 indepentant z motors for stability, even motion, and dual z give the ability to shift the build plate ever so slightly for tramming
-- for the XY ganrty i went for linear rods because they are easy, inexpensive, and reliable
+- Went with 2 independant z motors for stability, even motion, and dual z give the ability to shift the build plate ever so slightly for tramming
+- for the XY gantry i went for linear rods because they are easy, inexpensive, and reliable
 
  12:37PM to 3:12AM 14 hours 35 minutes 
 
