@@ -28,7 +28,7 @@ Created 5/20/25
 - For the XY gantry, I went for linear rods because they are easy, inexpensive, and reliable
 
 ### PSU
-- for the PSU I went with a basic 24V 20A 480W Because of its versatility
+- For the PSU I went with a basic 24V 20A 480W Because of its versatility
 
  12:37PM to 3:12AM 14 hours 35 minutes 
 
