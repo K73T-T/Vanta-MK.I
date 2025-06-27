@@ -174,5 +174,16 @@ Moved limit swtiches because the way they were before would not work for a SCARA
 
 ![image](https://github.com/user-attachments/assets/95642553-bf55-4235-9a9a-70c76c5141b7)
 
+## Day 15 6/26/25 
+
+Found that my FRC Team had quite a few 2020 and 2040 extrusions that they had no use for so I was able to use them for my printer instead of having to buy them, which saved me over $80.
+
+![image](https://github.com/user-attachments/assets/11006645-8945-4faa-be9f-27344316a79b)
+
+
+Started cutting out 2020 extrusions and will cut the rest on Monday (30 mintues)
+![image](https://github.com/user-attachments/assets/8a3304ba-6caa-43c7-acde-48e5bab6b2b8)
+
+
 
 
