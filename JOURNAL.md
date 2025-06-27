@@ -21,7 +21,7 @@ Created 5/20/25
 ![image](https://github.com/user-attachments/assets/07bd8d8c-aecb-4bc4-bfec-a260c6ce2002)
 
 ### Build Plate
-- For the build plate, I chose the Anycubic Kobra 3 Build Plate Assembly. Wanted to use an off-the-shelf build plate assembly from an existing printer model to reduce complexity and cost, and I can cut off time from the construction of the full assembly. After comparing several options online, the Kobra 3 plate since I’m happy with the size, cost, and since it's heated
+- For the build plate, I chose the Anycubic Kobra 3 Build Plate Assembly. Wanted to use an off-the-shelf build plate assembly from an existing printer model to reduce complexity and cost, and I can cut off time from the construction of the full assembly. After comparing several options online, I chose the Kobra 3 plate since I’m happy with the size, cost, and since it's heated
 
 
 ## 5/25/25 Work on cad again and finalizing components
